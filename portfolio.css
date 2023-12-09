@@ -128,7 +128,7 @@ main{
     font-weight: 700;
 }
  
-
+/* what i do area css */
 .What-I-Do{
     text-align: center;
 
@@ -148,6 +148,49 @@ main{
     color: var(--Dark-03, #757575);
     font-size: 18px;
     margin-bottom: 50px;
+    margin-left: 115px;
+    margin-right: 115px;
+   
     
+
+}
+
+/* Skills css */
+
+.Skills-container{
+display: flex;
+margin-top: 80px ;
+margin-right: 24px;
+
+}
+
+.skills{
+    width: 267px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding-left: 30px;
+    padding-top: 30PX;
+    
+
+
+
+}
+
+.skills-tittle{
+
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: var(--Dark-01, #181818);
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.skills-description{
+    
+    padding-right: 33px;
+    padding-bottom: 30px;
+    color: var(--Dark-03, #757575);
 
 }
